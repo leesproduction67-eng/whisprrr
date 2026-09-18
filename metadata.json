@@ -1,0 +1,11 @@
+{
+  "name": "Whisprr.",
+  "description": "Private mobile-style social messaging app with Account ID and QR connection, photo sharing, group chats, PeerJS video calls, and glassmorphism styling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
